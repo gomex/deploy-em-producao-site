@@ -11,4 +11,9 @@ Se seu PR for uma correção pequena, tipo poucas palavras, um erro ortográfico
  1. Um pequeno resumo do conteúdo que está aplicando;
  2. Uma breve explicação do motivo de pelo qual você acha importante esse conteúdo estar no livro; 
 
+
+{{% title4 "Para qual branch fazer o PR?" %}}
+
+Sempre use a branch preview, pois será gerado um preview a partir dessa branch. Após avaliação manual, será mergeado a branch **preview** para branch **main**, que é a branch usada para publicar o livro no leanpub.
+
 Leia [essa página](https://deployemproducao.dev/construindo) para ter detalhes sobre a didática usada no livro para criação de um capítulo.
